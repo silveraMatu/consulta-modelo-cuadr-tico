@@ -1,6 +1,6 @@
 # 🧮 Sistema Cuadrático Distribuido: Frontend, Backend y Caché
 
-**Autor:** Máximo Colman
+**Autor:** Silvera Matías
 
 Este proyecto implementa una arquitectura de microservicios distribuida en tres máquinas virtuales (VMs) independientes sobre una red NAT. El objetivo del sistema es resolver la ecuación matemática cuadrática $y = 2x^2 + 5x + 3$ optimizando los tiempos de respuesta mediante un patrón *Cache-Aside*.
 
